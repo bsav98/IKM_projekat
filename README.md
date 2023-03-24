@@ -1,2 +1,3 @@
 # IKM_projekat
-ModbusTCP_protokol
+# ModbusTCP_protokol
+Komunikacija izmedju klijenta i servera pomocu ModbusTCP protokola
