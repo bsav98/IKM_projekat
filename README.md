@@ -8,4 +8,4 @@ Modbus TCP je siguran protokol koji omogucava **klijent-server** komunikaciju iz
  **Modbus Request**- klijent salje zahtjev serveru za uspostavljanje konekcije, vrsi se sinhronizacija obije strane\
  **Modbus Indication**- server prima zahtjev za uspostavljanje konekcije \
  **Modbus Response**- server salje potvrdu(ACK) o primljenoj poruci ## 
- **Modbus Confirmation** - klijent prima potvrdu sa strane servera, te se uspostavlja konekcija i pocinje prenos podataka
+ **Modbus Confirmation**- klijent prima potvrdu sa strane servera, te se uspostavlja konekcija i pocinje prenos podataka
